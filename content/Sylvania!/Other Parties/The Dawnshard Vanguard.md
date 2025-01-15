@@ -13,4 +13,4 @@
 (Female Half-Elf Druid): A wild and free-spirited guardian of nature, able to shapeshift into majestic Essian creatures. Her staff blooms with flowers during combat.
 
 # **Sovan Emberlight** 
-(Nonbinary Tiefling Wizard): A calm and strategic spellcaster, wielding powerful divination magic. Their cloak shimmers faintly with starlight, marking their celestial alignment.
+(Male Tiefling Wizard): A calm and strategic spellcaster, wielding powerful divination magic. Their cloak shimmers faintly with starlight, marking their celestial alignment.

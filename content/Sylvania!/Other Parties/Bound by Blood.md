@@ -13,4 +13,4 @@
 (Male Half-Orc Barbarian): A brawny warrior with a surprisingly gentle demeanor. He collects shards of ancient relics as good luck charms.
 
 # **Erynn**
- (Nonbinary Human Wizard): A scholar obsessed with the arcane mysteries of Essia. Their cloak is embroidered with runes that glow faintly in the dark.
+ (Male Human Wizard): A scholar obsessed with the arcane mysteries of Essia. Their cloak is embroidered with runes that glow faintly in the dark.

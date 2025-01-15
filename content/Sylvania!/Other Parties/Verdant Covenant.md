@@ -14,4 +14,4 @@
 (Female Hill Dwarf Cleric): A stalwart defender of life, tending to injured wildlife and humanoids alike. Her shield is carved with scenes of thriving nature.
 
 # **Korrin Emberstorm** 
-(Nonbinary Genasi Sorcerer): A fiery sorcerer who channels raw elemental magic. Their hair shimmers with embers that never fade.
+(Male Genasi Sorcerer): A fiery sorcerer who channels raw elemental magic. His hair shimmers with embers that never fade.

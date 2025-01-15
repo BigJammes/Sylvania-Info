@@ -22,3 +22,6 @@ During a raid into ancient ruins, the tribe stumbled upon an ancient temple cove
 Fed up with his rejection, and the secrets that had defined his existence, Vrynn chose to leave. That same night, he took the egg and fled into the wilderness, cutting ties with his tribe and their expectations. Now, as a wandering ranger, he carries the weight of his choice, the burden of the dragon egg, and the uncertainty of what comes next as he looks for his missing family. The egg shows faint signs of life, and Vrynn struggles to find meaning as he navigates a world that feels vast, lonely, and full of unanswered questions.
 
 **
+# DM Info
+
+His mom is his connection to the prophecy.

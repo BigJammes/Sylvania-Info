@@ -57,7 +57,7 @@ Bosford
 
   
 
-- Hitchhiked to the capital of Bosford from Perscombe, probably by offering his services as a basic mercenary/guard/magic user 
+- Hitchhiked to the capital of Bosford from Draconia, probably by offering his services as a basic mercenary/guard/magic user 
     
 - In Bosford, was offered aid by a paladin of Venseil named Zena, the two of them ended up becoming friends with her convincing him to become a paladin of Venseil
     
@@ -161,4 +161,5 @@ Hayes has a massive teeny crush on her, she also likes him but doesn’t view it
 
 ## DM Ideas
 	Figure up what to do with Zena (Venseil paladin that Hayes is friends with)
-	
+	(Zena is alive but perhaps somewhat disillusioned with Venseil, maybe some oathbreaker shenanigans?)
+Hayes' Dad is his connection to the prophecy
