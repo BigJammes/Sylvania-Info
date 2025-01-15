@@ -13,7 +13,7 @@ The party has met at the capital of the Merchant Kingdom of Wartontia, Halter. T
 	- [ ] Escape the island of Eretrona
 		- [ ] Acquire a way to travel to Essia
 	- [ ] Rescue the inhabitants of Eretrona
-	- [ ] Regoup with Merric's group
+	- [ ] Regroup with Merric's group
 	- [x] Survive the ship attack
 
 ## Info Party knows

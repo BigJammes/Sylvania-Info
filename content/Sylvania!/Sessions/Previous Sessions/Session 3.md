@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: Session 3
 draft: false
 tags:
 ---
@@ -13,7 +13,7 @@ After regrouping with Clint, the party sets an ambush for the pirates inside of 
 	- [ ] Escape the island of Eretrona
 		- [ ] Acquire a way to travel to Essia
 	- [x] Rescue the inhabitants of Eretrona
-	- [ ] Regoup with Merric's group
+	- [ ] Regroup with Merric's group
 	- [x] Survive the ship attack
 	- [x] Recover Aurelius' books
 

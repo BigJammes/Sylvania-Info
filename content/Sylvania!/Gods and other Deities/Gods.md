@@ -7,7 +7,7 @@ tags:
 
  
 # Timior
-God of time and history. Considered to be the wisest god among the 10 siblings. His domain is a library with all writing, music, and other things stored for his followers to study for eternity. He is known to actively encourage his followers to pursue the discovery of new concepts and ideas, even at the cost of others or the world itself. He was the main advocate for allowing the dragons to be allowed to live.
+God of time and history. Considered to be the wisest god among the 10 siblings. His domain is a library with all writing, music, and other things stored for his followers to study for eternity. He is known to actively encourage his followers to pursue the discovery of new concepts and ideas, even at the cost of others or the world itself. He was the main advocate for allowing the dragons to be allowed to live. He has largely distanced himself from the rest of the gods, though the reasoning behind this is largely unknown.
 # Venseil
 Goddess of Vengeance and Karma. If you are a good person you will be rewarded by Venseil, and if you are wronged it is believed that Venseil is the main motivating factor that whispers for you to take vengeance. Her followers often appear after death as her agents that enact her vengeance upon those who harm her or her followers. Venseil is by far the most protective of her followers, but is also extremely possessive and obsessive of them.
 # Liferia

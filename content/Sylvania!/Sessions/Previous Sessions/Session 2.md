@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: Session 2
 draft: false
 tags:
 ---
@@ -32,7 +32,7 @@ Once they arrive in the kobold camp, Woody and Vrynn sneak off to ambush the kob
 	- [ ] Escape the island of Eretrona
 		- [ ] Acquire a way to travel to Essia
 	- [ ] Rescue the inhabitants of Eretrona
-	- [ ] Regoup with Merric's group
+	- [ ] Regroup with Merric's group
 	- [x] Survive the ship attack
 	- [x] Recover Aurelius' books
 

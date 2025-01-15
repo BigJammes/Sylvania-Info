@@ -5,7 +5,7 @@ tags:
 ---
 
 # Dragons
-The dragons reside in the territory known as Perscombe, and are protected by a fervent cult of followers. They are cursed to reside in mostly humanoid forms after being subjugated by the gods over 2000 years ago. They were also cursed with the inability to reproduce with one another. They are the only creatures alive that remember the old world.
+The dragons reside in the territory known as Perscombe, and are protected by a fervent cult of followers. They are cursed to reside in mostly humanoid forms after being subjugated by the gods around 1000 years ago. They were also cursed with the inability to reproduce with one another. They are the only creatures alive that remember the old world.
 
 # Genies
 Dealmakers of the Feywild. Genies are the creators of Genasi and are known for being quite self-centered. They make deals with mortals of all walks of life and often cause great mischief and mayhem in the process. The number of total genies is unknown but it is estimated by fey scholars to be around 50 total, though there is evidence that there were at one point over 100 different genies.

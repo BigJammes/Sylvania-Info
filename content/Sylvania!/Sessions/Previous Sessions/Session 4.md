@@ -1,5 +1,5 @@
 ---
-title: Session 1
+title: Session 4
 draft: false
 tags:
 ---
@@ -13,7 +13,7 @@ Upon entering Eretrona, our party made contact with the villagers. They immediat
 	- [ ] Escape the island of Eretrona
 		- [ ] Acquire a way to travel to Essia
 	- [x] Rescue the inhabitants of Eretrona
-	- [x] Regoup with Merric's group
+	- [x] Regroup with Merric's group
 	- [x] Survive the ship attack
 	- [x] Recover Aurelius' books
 

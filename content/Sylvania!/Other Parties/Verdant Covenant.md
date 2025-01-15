@@ -1,4 +1,4 @@
-**Purpose**: A druidic order investigating disturbances in the natural balance of Essia caused by reckless treasure hunters and defilers.
+**Purpose**: A druidic order investigating disturbances in the natural balance of Essia caused by the arrival of pirates due to the artifact discovered on the island.
 
 
 # **Fenthis Mosscloak** 
