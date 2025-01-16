@@ -55,4 +55,4 @@ Nobody knows who Clint’s father is, Clint never gave it much thought.
 	Tarasmother may have helped with this, or been the one to propose the idea
 	Come up with something for Clint's dad
 
-Either the Tarasmother or Clint's mom are his connection to the prophecy
+Either the Tarasmother or Clint's mom are his connection to the prophecy (leaning towards Tarasmother)

@@ -3,7 +3,7 @@ title: Damseol
 draft: true
 tags:
 ---
-# Backstory
+C# Backstory
 
 Dahlia Rostaeld was born an only child to Delilah and Cedrick Rostaeld, a loving Tiefling couple who had established a comfortable life in the Bosford Empire. Though their home was in the Empire, they often traveled the East continent together, both out of a shared passion for exploration and due to Cedrick’s work as a successful merchant. Their journeys would take them far and wide, sometimes for weeks at a time.
 
@@ -156,3 +156,5 @@ Goals
 ## DM Ideas
 	Definitely make this a long lost noble child situation
 	Tie in the family crest to the scholar sent to the island?
+
+Ayanna AND Elisabeth AND Cedrick are her connection to the prophecy, but Ayanna was the member of the adventuring party.
