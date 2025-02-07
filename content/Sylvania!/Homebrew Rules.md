@@ -21,3 +21,4 @@ tags:
 	- You will not be required to make a CON save on your first time being downed, and will never make a save with disadvantage.
 	- Injuries (unless it is directly specified in this list otherwise) can be removed via magical healing depending on their level. (1st level healing for minor injuries, 3rd level for intermediate injuries, and 5th level for major injuries with exceptions listed below).
 	- For major injuries that involve the severing of a limb or appendage, the limb MUST be present and in good condition for it to be healed and re-attached using magical healing of 5th level. If the limb or appendage is not present the 7th level spell "regenerate" will be required to heal said wound.
+- Player Characters can attune to a number of magical items equal to their proficiency bonus.

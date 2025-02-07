@@ -31,7 +31,7 @@ darkMode: false
 Spanning a large majority of Thult's expanse, New Thult is the home of the bustling day to day life of many of the residents of the city. Build over the course of the past 200 years since the purchase of the island, the district boasts far newer architecture and more efficient city planning for what is now the largest city in the Sea of Gold. If you're a traveler or a resident chances are you will likely be living your life within the bounds of this district.
 
 ## Old Thult
-Founded almost 1000 years prior during the first large scale settlementations of the western regions, Thult originally only consisted of a small city which served to house many of the explorers and adventurers venturing westward during this period. The city's architecture is old in style but aptly maintained by the local masonry guilds and the original district still hold vital importance to the more populated and far newer New Thult. Old Thult hosts plenty of historical venues as well as Inns and Shops.
+Founded almost 1000 years prior during the first large scale settlementations of the western regions, Thult originally only consisted of a small city which served to house many of the explorers and adventurers venturing westward during this period. The city's architecture is old in style but aptly maintained by the local masonry guilds and the original district still holds vital importance to the more populated and far newer New Thult. Old Thult hosts plenty of historical venues as well as Inns and Shops.
 
 ## Thult Merchant District
 ![[360_F_964928612_Q7IeF4ReVnnbDya2qa0P81YWKBgbXhHs.jpg]]

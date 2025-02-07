@@ -3,49 +3,59 @@ title: "{{title}}"
 draft: true
 tags:
 ---
- 
+# Plans
 
 
 1. The party are all connected without their knowledge through an ancient draconic prophecy
 2. The party's parents/mentors were in an adventuring group together, and had a LOT to do with the artifact on Essia
 3. The end of this arc will end with fighting William, and learning of the gods' dirty laundry
 4. The party at the end will have the choice to travel back to the time period just before the war between the dragons and the gods
+5. Party must discover their relation to the past, and then use the artifact (Oreus' Heart) on Essia (Hourglass of Time Manipulation) with the "Timior's Place"
+6. Timior and Venseil, in an attempt to correct the mistake the gods' made stole Liferia's prized artifact and Timior modified it to be a vessel to house his demigod's Oreus' heart. Doing this and placing the vessel + heart inside of Timior's Vault will allow the party to correct the past. (Timior is hiding one key issue however, the artifact cannot traverse time, only send things back. This means that the party will be stuck in the past.)
+7. William's patron is a tiefin that wanted the artifact so he could modify it to inverse its' effects. This would functionally cause the entire material plane to rot. All living matter would die. This is being done as a sort of "payback" for banishing his kind to the Feywild, and nearly pushing them to extinction.
+
+## Next Session Plans
+1. 
+
+## Puzzles
+
+
 
 # Hints for party
 
 ## Small Hints
-1. **Unusual Names in Local Songs:** A popular bard’s song in Thult contains the names "Taraya, Ayanna, Cedrick, Felaern, Gesulda, and Gardel." When asked, the bard claims the song is ancient and that its origins are unknown.
-2. **Timior’s Mark:** In the forests outside the large crypt on the Essian mainland, some old trees bear a strange sigil carved into their bark: a circular clock with dragon wings. When pressed, the mark glows faintly before fading.
-3. **Echoing Footsteps:** In Thult’s central plaza, people occasionally report hearing footsteps echoing louder than the crowd’s noise. The sound seems to come from nowhere but always leads toward the temple of Timior.
-4. **Dragonflies in Odd Patterns:** Swarms of dragonflies gather in patterns resembling five-pointed stars or interlocking circles near the Dragon’s Vein Mine during the evening hours.
-5. 
+2. **Unusual Names in Local Songs:** A popular bard’s song in Thult contains the names "Ravi, Ayanna, Cedrick, Felaern, Gesulda, and Gardel." When asked, the bard claims the song is ancient and that its origins are unknown.
+3. **Timior’s Mark:** In the forests outside the large crypt on the Essian mainland, some old trees bear a strange sigil carved into their bark: a circular clock with dragon wings. When pressed, the mark glows faintly before fading.
+4. **Echoing Footsteps:** In Thult’s central plaza, people occasionally report hearing footsteps echoing louder than the crowd’s noise. The sound seems to come from nowhere but always leads toward the temple of Timior.
+5. **Dragonflies in Odd Patterns:** Swarms of dragonflies gather in patterns resembling five-pointed stars or interlocking circles near the Dragon’s Vein Mine during the evening hours.
+6. 
 
 ## Medium Hints
-1. **Essian Folk Tales:** Local elders in Essia tell fragmented tales of a group of adventurers who "vanished into the future to change the past." They mention a betrayal by one of the gods and a "dragon’s vengeance frozen in time."
-2. **Old Map in the Thult Library:** A map from 1,000 years ago shows landmarks that no longer exist. One such landmark, labeled "Timior’s Forge," overlaps with a modern mine where strange occurrences are rumored to take place (hinting at the dungeon location).
-3. **Cryptic Murals in the Temple of Timior:** The temple to the god of time in Thult contains murals that shift slightly when viewed out of the corner of one’s eye. They depict a platinum scepter glowing amidst a fierce battle between divine beings and dragons and a group of five figures being guided by shadowy protectors. (The original portrays the dragons' defeat at the hands of the gods.)
-4. **Dragon’s Vein Mine:** An abandoned mine near Essia has veins of a strange mineral that faintly resembles platinum but is tinged with blue light. Miners say it’s cursed, and adventurers who’ve gone to explore have seen visions of dragons and strange humanoids whispering about the “end of godly tyranny.” (Same outcome as hint 2.)
+7. **Essian Folk Tales:** Local elders in Essia tell fragmented tales of a group of adventurers who "vanished into the future to change the past." They mention a betrayal by one of the gods and a "dragon’s vengeance frozen in time."
+8. **Old Map in the Thult Library:** A map from 1,000 years ago shows landmarks that no longer exist. One such landmark, labeled "Timior’s Forge," overlaps with a modern mine where strange occurrences are rumored to take place (hinting at the dungeon location).
+9. **Cryptic Murals in the Temple of Timior:** The temple to the god of time in Thult contains murals that shift slightly when viewed out of the corner of one’s eye. They depict a platinum scepter glowing amidst a fierce battle between divine beings and dragons and a group of five figures being guided by shadowy protectors. (The original portrays the dragons' defeat at the hands of the gods.)
+10. **Dragon’s Vein Mine:** An abandoned mine near Essia has veins of a strange mineral that faintly resembles platinum but is tinged with blue light. Miners say it’s cursed, and adventurers who’ve gone to explore have seen visions of dragons and strange humanoids whispering about the “end of godly tyranny.” (Same outcome as hint 2.)
 
 ## Big Hints
  **Dungeon Name:** Timior’s Vault (hidden beneath Dragon’s Vein Mine)
 
-1. **The Chronoscope Puzzle Room:** A large room contains a device resembling an orrery (a mechanical model of a solar system), but it represents time rather than space. When aligned to 1,000 years ago, ghostly figures of Taraya, Ayanna, and the others appear, arguing about what must be done to fulfill the prophecy.
-2. **Platinum Scepter Fragment:** One chamber houses a fragment of the scepter, along with inscriptions detailing how Timior infused it with his power. The fragment glows faintly when held by one of the party members, indicating their connection to the artifact.
-3. **Dragon's Prophecy Chamber:** An altar holds a dragon skull surrounded by aged scrolls. When touched, the skull whispers riddles about the prophecy, naming the party members as the “Five Fangs of the Dragon’s Retribution.”
-4. **Temporal Rift Trial:** A room with a glowing portal forces the party to witness key moments from the lives of their ancestors (e.g., Felaern forging an alliance with dragons, Gardel arguing with Timior, Gesulda betraying someone). Each vision ends with a cryptic clue about what lies ahead.
-5. **Guardian Statues:** Statues of Taraya, Ayanna, and the others stand in a circular formation, each inscribed with their names and roles. When the party members approach their respective guardian’s statue, they hear a faint message of encouragement or cryptic advice.
+11. **The Chronoscope Puzzle Room:** A large room contains a device resembling an orrery (a mechanical model of a solar system), but it represents time rather than space. When aligned to 1,000 years ago, ghostly figures of Taraya, Ayanna, and the others appear, arguing about what must be done to fulfill the prophecy.
+12. **Platinum Scepter Fragment:** One chamber houses a fragment of the scepter, along with inscriptions detailing how Timior infused it with his power. The fragment glows faintly when held by one of the party members, indicating their connection to the artifact.
+13. **Dragon's Prophecy Chamber:** An altar holds a dragon skull surrounded by aged scrolls. When touched, the skull whispers riddles about the prophecy, naming the party members as the “Five Fangs of the Dragon’s Retribution.”
+14. **Temporal Rift Trial:** A room with a glowing portal forces the party to witness key moments from the lives of their ancestors (e.g., Felaern forging an alliance with dragons, Gardel arguing with Timior, Gesulda betraying someone). Each vision ends with a cryptic clue about what lies ahead.
+15. **Guardian Statues:** Statues of Taraya, Ayanna, and the others stand in a circular formation, each inscribed with their names and roles. When the party members approach their respective guardian’s statue, they hear a faint message of encouragement or cryptic advice.
 
 ## Miscellaneous quirks and small details
-1. **Lost Chronicles of Essia:** An incomplete book in Thult’s library, titled _The Lost Chronicles of Essia_, contains fragmented entries about a secret mission led by Timior to oppose the gods. The last entry describes an artifact of “unfathomable light” being hidden in Essia.
-2. **Timior’s Compendium of Paradoxes:** Found in the Thult library, this book is filled with philosophical riddles and paradoxes, but certain pages shimmer faintly when touched. One riddle reads: _“To travel forward is to see the end; to bring back is to mend. What is created here will unmake there.”_
-3. **Tales of the Eternal Watchers:** A popular children’s book in Thult features whimsical adventures of a group of “timeless guardians” who hide treasures and secrets from meddling gods. Each guardian loosely mirrors the ancestors of the party.
-4. **Play: _The Five and the Flame_**: An ancient but rarely performed play describes a tragic tale of five adventurers attempting to bring balance to the world. While framed as fiction, the descriptions match key figures in the prophecy.
-5. **Dragon Breath Paintings:** A mysterious artist in Essia paints surreal landscapes, claiming they “see through dragon’s eyes.” One painting eerily resembles the party, though the artist insists they don’t know why.
-6. **Song of the Platinum Sky:** A local bard sings a haunting tune about a "sky of platinum fire." The final verse cryptically warns: _“Five threads weave the past; one scepter mends the future.”_ The bard insists the song came to them in a dream.
-7. **Poem of the Platinum Dawn:** A poem found in a bard’s journal describes a group of five heroes destined to “split the skies with a blade of purest platinum.”
-8. **Dragon Scales in a Collector’s Shop:** A merchant in Thult sells dragon scales that seem mundane but reveal glowing inscriptions under moonlight. The inscriptions talk about “returning to a war left unwon.”
-9. **The Book of Infinite Moments:** A rare book in the temple of Timior contains riddles about time, one of which cryptically describes the scepter and its purpose. Deciphering the riddle gives the phrase, “Five futures bind the past.”
-10. - **Time-Lost Wildlife:** Strange animals in the area occasionally display bizarre behavior, such as moving backward, freezing in place, or repeating actions. Upon closer inspection, their fur or feathers are tinged with platinum-like streaks.
+16. **Lost Chronicles of Essia:** An incomplete book in Thult’s library, titled _The Lost Chronicles of Essia_, contains fragmented entries about a secret mission led by Timior to oppose the gods. The last entry describes an artifact of “unfathomable light” being hidden in Essia.
+17. **Timior’s Compendium of Paradoxes:** Found in the Thult library, this book is filled with philosophical riddles and paradoxes, but certain pages shimmer faintly when touched. One riddle reads: _“To travel forward is to see the end; to bring back is to mend. What is created here will unmake there.”_
+18. **Tales of the Eternal Watchers:** A popular children’s book in Thult features whimsical adventures of a group of “timeless guardians” who hide treasures and secrets from meddling gods. Each guardian loosely mirrors the ancestors of the party.
+19. **Play: _The Five and the Flame_**: An ancient but rarely performed play describes a tragic tale of five adventurers attempting to bring balance to the world. While framed as fiction, the descriptions match key figures in the prophecy.
+20. **Dragon Breath Paintings:** A mysterious artist in Essia paints surreal landscapes, claiming they “see through dragon’s eyes.” One painting eerily resembles the party, though the artist insists they don’t know why.
+21. **Song of the Platinum Sky:** A local bard sings a haunting tune about an "Eternal Heart." The final verse cryptically warns: _“Five threads weave the past; one heart mends the future.”_ The bard insists the song came to them in a dream.
+22. **Poem of the Platinum Dawn:** A poem found in a bard’s journal describes a group of five heroes destined to “split the skies with a blade of purest platinum.”
+23. **Dragon Scales in a Collector’s Shop:** A merchant in Thult sells dragon scales that seem mundane but reveal glowing inscriptions under moonlight. The inscriptions talk about “returning to a war left unwon.”
+24. **The Book of Infinite Moments:** A rare book in the temple of Timior contains riddles about time, one of which cryptically describes the scepter and its purpose. Deciphering the riddle gives the phrase, “Five futures bind the past.”
+25. - **Time-Lost Wildlife:** Strange animals in the area occasionally display bizarre behavior, such as moving backward, freezing in place, or repeating actions. Upon closer inspection, their fur or feathers are tinged with platinum-like streaks.
     
 - **Dreams of Dragons:** Each party member begins experiencing vivid dreams of dragons speaking riddles and foretelling doom. The dragons always address the party members by the names of their ancestors.
     
@@ -56,16 +66,16 @@ tags:
 ### Hayes
 - **Draconic Crown:** Found in the Dragon’s Vein Mine, this tarnished crown features small dragon motifs. When Hayes places it on their head, it glows faintly and plays a brief message in Felaern’s voice: _“Blood of my blood, your strength will bridge time.”_ If anyone else wears it, the crown remains inert.
     
-- **Echoing Lullaby:** In a ruined Essian watchtower, Hayes hears a story they recall from childhood. The story is mostly the same, but has one additional line in it that seems to weave in whispered instructions: _“The forge beneath the earth will light your way.”_ No one else hears the song.
+- **Echoing Lullaby:** In a ruined Essian watchtower, Hayes has a flashback to a discussion about the passage of time with his father. In the flashback his father refers to time as a "consistent Inconsistence". This is the pass-phrase that must be given to access the hidden library's secret room.
     
 - **Shifting Scales Amulet:** A draconic amulet in a museum in Thult reacts when Hayes approaches, shifting from bronze to a gleaming platinum hue. A curator notes they’ve never seen it change before.
 
 ### Vrynn
-4. **Shard of a Platinum Mirror:** In an abandoned manor in Essia, a shattered mirror displays strange reflections. When Vrynn looks into it, they see a version of themselves wearing an ancient, regal outfit. The reflection speaks in Gesulda’s voice: _“You are stronger than I was. The path I failed to tread will guide you now.”_ For others, the mirror shows only distorted shapes.
+26. **Shard of a Platinum Mirror:** In an abandoned manor in Essia, a shattered mirror displays strange reflections. When Vrynn looks into it, they see a version of themselves wearing an ancient, regal outfit. The reflection speaks in Gesulda’s voice: _“You are stronger than I was. The path I failed to tread will guide you now.”_ For others, the mirror shows only distorted shapes.
     
-5. **Veil of Whispers:** A piece of shimmering cloth found in Timior’s Vault seems to hum faintly when Vrynn touches it. Wrapping it around their shoulders triggers a cryptic message from Gesulda: _“The gods’ chains bind all, but we are their undoing. Seek the past.”_
+27. **Veil of Whispers:** A piece of shimmering cloth found in "Royal Clothing shop" seems to hum faintly when Vrynn touches it. Wrapping it around their shoulders triggers a cryptic message from Gesulda: _“The gods’ chains bind all, but we are their undoing. Seek the past.”_
     
-6. **Dragon-Touched Plant:** A unique vine with metallic leaves grows in the ruins of Thult’s eastern wall. When Vrynn touches it, the plant momentarily blooms with platinum-colored flowers, releasing a faint, fragrant mist. The mist shapes into a dragon’s eye before fading.
+28. **Dragon-Touched Plant:** A unique vine with metallic leaves grows in the ruins of Thult’s eastern wall. When Vrynn touches it, the plant momentarily blooms with platinum-colored flowers, releasing a faint, fragrant mist. The mist shapes into a dragon’s eye before fading.
 
 ### Damseol
 - **Cedrick’s Compass:** A damaged compass in a merchant’s stall inexplicably begins spinning wildly when Damseol approaches. The merchant sells it cheaply, dismissing it as broken. When held, the needle stabilizes and points toward the Dragon’s Vein Mine, where Cedrick’s voice briefly says, _“You’ve found the path”_

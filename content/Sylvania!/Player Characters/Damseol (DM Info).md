@@ -157,4 +157,4 @@ Goals
 	Definitely make this a long lost noble child situation
 	Tie in the family crest to the scholar sent to the island?
 
-Ayanna AND Elisabeth AND Cedrick are her connection to the prophecy, but Ayanna was the member of the adventuring party.
+Ayanna AND Cedrick are her connection to the prophecy, but Ayanna was the member of the adventuring party.
